@@ -14,7 +14,7 @@
         - ## Dataset
         - WHO Life Expectancy dataset from Kaggle.
        
-        - ## Models Used
+        - ## Models Usedh
         - - Linear Regression (baseline) - R2=0.823
           - - Random Forest (in progress)
             - - XGBoost (in progress)
