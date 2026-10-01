@@ -3,7 +3,7 @@
 -- and the dashboard. Based on Lab 2 (Module 8): Storing and Analyzing Data
 -- by Using Amazon Redshift.
 --
--- Run in the Redshift Query Editor v2. Replace <IAM_ROLE_ARN> with the role
+-- Run in the Redshift query editor. Replace <IAM_ROLE_ARN> with the role
 -- that lets Redshift read the S3 bucket (never paste access keys here).
 
 -- 1. Table for the processed dataset
